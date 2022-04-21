@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-21T03:45:54</date>
+  <millis>1650498354607</millis>
+  <sequence>0</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Сервер запущен</message>
+</record>
+<record>
+  <date>2022-04-21T03:47:54</date>
+  <millis>1650498474200</millis>
+  <sequence>1</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Клиент подключен /127.0.0.1:58048</message>
+</record>
+<record>
+  <date>2022-04-21T03:47:54</date>
+  <millis>1650498474224</millis>
+  <sequence>2</sequence>
+  <logger>server.ClientHandler</logger>
+  <level>INFO</level>
+  <class>server.ClientHandler</class>
+  <method>lambda$new$0</method>
+  <thread>12</thread>
+  <message>Clientqqwweeauthenticated</message>
+</record>
+<record>
+  <date>2022-04-21T03:48:44</date>
+  <millis>1650498524478</millis>
+  <sequence>3</sequence>
+  <logger>server.Server</logger>
+  <level>INFO</level>
+  <class>server.Server</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Клиент подключен /127.0.0.1:61862</message>
+</record>
+<record>
+  <date>2022-04-21T03:48:44</date>
+  <millis>1650498524488</millis>
+  <sequence>4</sequence>
+  <logger>server.ClientHandler</logger>
+  <level>INFO</level>
+  <class>server.ClientHandler</class>
+  <method>lambda$new$0</method>
+  <thread>12</thread>
+  <message>Clientaassddauthenticated</message>
+</record>
